@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+*.tar
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Node (if frontend added later)
+node_modules/
+
+# ngrok config (optional)
+ngrok.yml

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain-core
+langchain-google-genai
+langgraph
+simple-salesforce
+pandas
+openpyxl
+Pillow
+pytesseract
+sarvamai
